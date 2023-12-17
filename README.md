@@ -1,4 +1,4 @@
-# An online reputation management website for Horiseon
+# Javascript Quiz
 
 ## Description
 
